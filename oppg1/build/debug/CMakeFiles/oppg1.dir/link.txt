@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++1y -Wall -Wextra -g   CMakeFiles/oppg1.dir/main.cpp.o  -o oppg1 -rdynamic 

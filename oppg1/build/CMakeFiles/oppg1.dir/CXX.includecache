@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/crypto.hpp
+vector
+-
+random
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+string
+-
+
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/main.cpp
+iostream
+-
+string
+-
+vector
+-
+cassert
+-
+crypto.hpp
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/crypto.hpp
+

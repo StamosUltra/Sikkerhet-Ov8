@@ -1,0 +1,3 @@
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/test/build/CMakeFiles/edit_cache.dir
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/test/build/CMakeFiles/rebuild_cache.dir
+/home/joakim/jucipp_projects/Sikkerhet/Ov8/test/build/CMakeFiles/test.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/build",
+  "command": "/usr/bin/c++      -std=c++1y -Wall -Wextra   -o CMakeFiles/oppg1.dir/main.cpp.o -c /home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/main.cpp",
+  "file": "/home/joakim/jucipp_projects/Sikkerhet/Ov8/oppg1/main.cpp"
+}
+]
